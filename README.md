@@ -1,4 +1,4 @@
-# STM32 SPI EEPROM Interface — 25LC256
+# STM32 SPI EEPROM Driver — 25LC256
 
 ## Overview
 Write and read byte data to Microchip 25LC256 SPI EEPROM  
